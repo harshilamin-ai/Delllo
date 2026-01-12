@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+celery
+redis
+psycopg2
+tinydb
+langchain
+faiss-cpu
+scikit-learn
+uvicorn[standard]
+numpy==1.24.4
+apscheduler
+pydantic
+chromadb

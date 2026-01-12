@@ -1,0 +1,71 @@
+
+# -*- mode: python ; coding: utf-8 -*-
+
+import os
+from PyInstaller.utils.hooks import collect_submodules, collect_data_files
+
+# Path to your main application entry point
+script_path = os.path.join(os.getcwd(), "main.py")
+
+# Collect hidden imports for all required packages
+hiddenimports = []
+hiddenimports += collect_submodules("fastapi")
+hiddenimports += collect_submodules("starlette")
+hiddenimports += collect_submodules("pydantic")
+hiddenimports += collect_submodules("jinja2")
+hiddenimports += collect_submodules("uvicorn")
+hiddenimports += collect_submodules("uvloop")
+hiddenimports += collect_submodules("httptools")
+hiddenimports += collect_submodules("celery")
+hiddenimports += collect_submodules("redis")
+hiddenimports += ["psycopg2"]
+hiddenimports += collect_submodules("tinydb")
+hiddenimports += collect_submodules("langchain")
+hiddenimports += collect_submodules("faiss")
+hiddenimports += collect_submodules("sklearn")
+hiddenimports += collect_submodules("numpy")
+
+# Include data folder (all JSON, subscriptions, etc.) and any static files
+datas = []
+# Add all files under data/ into the bundle
+for root, dirs, files in os.walk("data"):
+    for file in files:
+        src = os.path.join(root, file)
+        # Calculate relative path to preserve folder structure
+        dst = os.path.relpath(root, "data")
+        datas.append((src, os.path.join("data", dst)))
+
+# Include prompt_templates.py
+datas.append(("prompt_templates.py", "."))
+
+# If you need to bundle specific binaries (e.g., for psycopg2 or faiss), add them here
+binaries = []
+# Example for a Windows libpq.dll (uncomment and adjust if needed):
+# binaries += [("C:/Program Files/PostgreSQL/15/bin/libpq.dll", ".")]
+
+a = Analysis(
+    [script_path],
+    pathex=[os.getcwd()],
+    binaries=binaries,
+    datas=datas,
+    hiddenimports=hiddenimports,
+    hookspath=[],
+    runtime_hooks=[],
+    excludes=[],
+    noarchive=False,
+)
+
+pyz = PYZ(a.pure, a.zipped_data, cipher=None)
+
+exe = EXE(
+    pyz,
+    a.scripts,
+    a.binaries,
+    a.zipfiles,
+    a.datas,
+    name="rain_server",
+    debug=False,
+    strip=False,
+    upx=True,
+    console=True,
+)

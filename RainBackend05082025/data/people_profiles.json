@@ -1,0 +1,916 @@
+[
+  {
+    "id": "c67490f5-aae5-4be3-8b65-4627bf617256",
+    "name": "Ajay Rathor",
+    "current_role": {
+      "title": "Managing Partner",
+      "company": "Realedge Associates (also listed: Maxatta, Harptec)",
+      "location": "London"
+    },
+    "previous_roles": [
+      { "title": "Technology / Solutions Lead (Capital Markets & Cyber)", "company": "Consulting / Client Delivery (inferred)" },
+      { "title": "Software Engineer / Architect", "company": "Financial Services (inferred)" },
+      { "title": "Cybersecurity Engineering / Automation Specialist", "company": "Security-focused delivery (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Capital markets technology", "applied_in": "Building and integrating market-facing systems; workflow automation for trading/ops" },
+      { "skill": "Cybersecurity architecture", "applied_in": "Security controls design; risk reduction for regulated environments" },
+      { "skill": "Product / solution design", "applied_in": "Packaging repeatable offerings for clients across finance and cyber" },
+      { "skill": "Stakeholder management", "applied_in": "Executive alignment, delivery governance, roadmap prioritisation" },
+      { "skill": "Delivery leadership", "applied_in": "Running multi-stream implementations; steering issues to resolution" }
+    ],
+    "solutions_offered": [
+      "Capital markets workflow automation and integration",
+      "Cybersecurity monitoring, response automation, and governance tooling",
+      "End-to-end architecture and delivery leadership for client programmes"
+    ],
+    "career_highlights": [
+      "Led delivery of cross-domain (finance + cyber) technology programmes (inferred)",
+      "Built repeatable solution frameworks for faster client onboarding (inferred)",
+      "Implemented governance and operational monitoring patterns (inferred)",
+      "Established partnerships across multiple business lines (inferred)",
+      "Scaled delivery from prototype to production for client-facing systems (inferred)"
+    ]
+  },
+  {
+    "id": "98be5e88-edbb-40b1-b119-90a13bcd568f",
+    "name": "Priya Rathor",
+    "current_role": { "title": "Partner", "company": "McDermott", "location": "Perryburgh" },
+    "previous_roles": [
+      { "title": "Senior Associate (Structured Finance)", "company": "Law firm (inferred)" },
+      { "title": "Associate (Capital Markets / Securitisation)", "company": "Law firm (inferred)" },
+      { "title": "Trainee / Junior Lawyer", "company": "Capital markets seat (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Structured finance structuring", "applied_in": "Securitisations; credit enhancement and waterfall analysis" },
+      { "skill": "Transaction execution", "applied_in": "Deal management, closings, condition precedent tracking" },
+      { "skill": "Risk and documentation analysis", "applied_in": "Reviewing covenants, events of default, and investor protections" },
+      { "skill": "Client advisory", "applied_in": "Issuer/investor counsel; negotiation strategy and positioning" },
+      { "skill": "Blockchain / digital assets awareness", "applied_in": "Assessing tokenisation or on-chain settlement considerations" }
+    ],
+    "solutions_offered": [
+      "Legal structuring and execution for securitisations and structured products",
+      "Documentation strategy and negotiation for complex financings",
+      "Advisory on blockchain-adjacent financing structures (high level)"
+    ],
+    "career_highlights": [
+      "Progressed to Partner advising on structured finance matters (inferred)",
+      "Led multi-party negotiations to closing on complex deals (inferred)",
+      "Built repeat client relationships with issuers/sponsors (inferred)",
+      "Developed capability bridging traditional finance and emerging tech (inferred)",
+      "Mentored junior lawyers / led deal teams (inferred)"
+    ]
+  },
+  {
+    "id": "ea5d20a8-94fd-4d68-adcd-a795d7cf1c1a",
+    "name": "Taylor Nelson",
+    "current_role": { "title": "Designer", "company": "Dixon, Hoffman and Hall", "location": "Lake Karen" },
+    "previous_roles": [
+      { "title": "Radiographer (Diagnostic)", "company": "Hospital / clinic (from headline)" },
+      { "title": "Junior Designer", "company": "Studio / in-house (inferred)" },
+      { "title": "Imaging / Data Workflow Coordinator", "company": "Healthcare (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "User-centric design", "applied_in": "Designing workflows/interfaces, likely for clinical or operational users" },
+      { "skill": "Data literacy", "applied_in": "Interpreting diagnostic or operational datasets (inferred)" },
+      { "skill": "AI product thinking", "applied_in": "Applying AI concepts to automate or assist processes" },
+      { "skill": "Cross-functional collaboration", "applied_in": "Working with clinicians/engineers/product stakeholders" },
+      { "skill": "Process improvement", "applied_in": "Reducing friction in operational or clinical pathways" }
+    ],
+    "solutions_offered": [
+      "Design for workflow optimisation",
+      "AI-assisted product / process concepts",
+      "Healthcare-to-tech translation for usability"
+    ],
+    "career_highlights": [
+      "Transitioned from diagnostic domain knowledge into design delivery (inferred)",
+      "Built stakeholder alignment across technical and non-technical groups (inferred)",
+      "Improved workflow usability for end users (inferred)",
+      "Contributed to AI-enabled product concepts (inferred)",
+      "Delivered design outputs to production teams (inferred)"
+    ]
+  },
+  {
+    "id": "bb9ef1c7-1cb3-4277-8ab1-94f34396e161",
+    "name": "Kari French",
+    "current_role": { "title": "Product Manager", "company": "Johnson-Jones", "location": "Russoborough" },
+    "previous_roles": [
+      { "title": "Proofreader / Content QA", "company": "Publishing / agency (from headline)" },
+      { "title": "Associate Product Manager", "company": "Startup / SaaS (inferred)" },
+      { "title": "Project / Delivery Coordinator", "company": "Digital team (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Product discovery", "applied_in": "User interviews, problem framing, roadmap definition" },
+      { "skill": "Go-to-market alignment", "applied_in": "Launch planning, messaging, stakeholder coordination" },
+      { "skill": "AI feature ideation", "applied_in": "Defining AI-enabled capabilities and success metrics" },
+      { "skill": "Quality and detail orientation", "applied_in": "Specs, acceptance criteria, release QA (leveraging proofreading background)" },
+      { "skill": "Startup execution", "applied_in": "Shipping MVPs, prioritising under constraint" }
+    ],
+    "solutions_offered": [
+      "Product strategy and roadmap delivery",
+      "AI-enabled product feature definition",
+      "Operationalising product processes for early-stage teams"
+    ],
+    "career_highlights": [
+      "Drove product delivery from concept to release (inferred)",
+      "Introduced strong QA/spec discipline into product lifecycle (inferred)",
+      "Shipped iterative AI/automation features (inferred)",
+      "Improved funnel/retention via product enhancements (inferred)",
+      "Aligned cross-functional teams on measurable outcomes (inferred)"
+    ]
+  },
+  {
+    "id": "ee4c3fa2-3dea-48fe-a585-b471eac64d32",
+    "name": "Kelly Davis",
+    "current_role": { "title": "Trader", "company": "Sunofia", "location": "London" },
+    "previous_roles": [
+      { "title": "Trader", "company": "ING" },
+      { "title": "Research Analyst", "company": "BJP" },
+      { "title": "Operations", "company": "Credit Suisse" }
+    ],
+    "top_skills": [
+  {
+    "skill": "Market microstructure analysis",
+    "applied_in": "Understanding order flow, liquidity, spreads, and execution impact across venues"
+  },
+  {
+    "skill": "Risk management and position sizing",
+    "applied_in": "Defining stop-losses, exposure limits, and capital allocation to control drawdowns"
+  },
+  {
+    "skill": "Quantitative analysis",
+    "applied_in": "Interpreting price action, statistical signals, and factor relationships to inform trades"
+  },
+  {
+    "skill": "Fundamental analysis",
+    "applied_in": "Assessing earnings, balance sheets, macro drivers, and sector dynamics for trade conviction"
+  },
+  {
+    "skill": "Trade execution and discipline",
+    "applied_in": "Executing entries and exits according to predefined plans under real-time market pressure"
+  }
+    ],
+"solutions_offered": [
+  "Generation and execution of repeatable trading strategies with defined risk-return profiles",
+  "Active risk management, including drawdown control, exposure limits, and scenario awareness",
+  "Market-driven decision-making aligned with macro, fundamental, and technical signals"
+],
+"career_highlights": [
+  "Generated consistent P&L by executing directional and relative-value equity trades within defined risk limits",
+  "Improved trade performance through systematic post-trade review and refinement of entry and exit criteria",
+  "Effectively managed exposure across single names and sectors during varying market regimes",
+  "Collaborated with research, sales, and risk teams to translate market views into executable trades",
+  "Maintained disciplined execution and drawdown control during periods of elevated volatility"
+]
+  },
+
+  {
+    "id": "2c5eaff9-4bb7-4afb-9106-8e29da6e2e38",
+    "name": "Samantha Porter",
+    "current_role": { "title": "Data Scientist", "company": "Fuentes, Reyes and Hansen", "location": "West Melissa" },
+    "previous_roles": [
+      { "title": "Building Surveyor", "company": "Property / construction (from headline)" },
+      { "title": "Data Analyst", "company": "Tech / ops analytics (inferred)" },
+      { "title": "Junior Data Scientist", "company": "Applied ML team (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Machine learning", "applied_in": "Predictive models, classification, feature engineering" },
+      { "skill": "Blockchain analytics", "applied_in": "On-chain signals, transaction pattern analysis (inferred)" },
+      { "skill": "Data pipelines", "applied_in": "Ingestion, cleaning, reproducible datasets" },
+      { "skill": "Experimentation", "applied_in": "A/B tests, offline evaluation, model monitoring" },
+      { "skill": "Domain translation", "applied_in": "Converting operational problems into measurable ML tasks" }
+    ],
+    "solutions_offered": [
+      "Applied ML models and decision support",
+      "Blockchain/AI analytics prototypes",
+      "Data pipeline and evaluation frameworks"
+    ],
+    "career_highlights": [
+      "Transitioned from domain practice to data-driven roles (inferred)",
+      "Delivered ML prototypes into stakeholder workflows (inferred)",
+      "Built repeatable pipelines for analytics and modelling (inferred)",
+      "Improved decision accuracy via model-led insights (inferred)",
+      "Established monitoring/iteration cycle for model performance (inferred)"
+    ]
+  },
+
+  {
+    "id": "2d183327-b56f-4250-b507-4c6cdb9bd7be",
+    "name": "Daniel Perry",
+    "current_role": { "title": "Data Scientist", "company": "Madden, Bishop and Doyle", "location": "South Jeffreyberg" },
+    "previous_roles": [
+      { "title": "Ship Broker", "company": "Shipping / logistics (from headline)" },
+      { "title": "Quant / Data Analyst", "company": "Finance analytics (inferred)" },
+      { "title": "ML Engineer (Junior)", "company": "Model delivery team (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Time-series modelling", "applied_in": "Pricing, forecasting, anomaly detection" },
+      { "skill": "Financial analytics", "applied_in": "Signal research, KPI attribution, reporting" },
+      { "skill": "ML engineering", "applied_in": "Packaging models, APIs, reproducible training pipelines" },
+      { "skill": "Feature engineering", "applied_in": "Transforming market/operational data into predictive features" },
+      { "skill": "Stakeholder communication", "applied_in": "Explaining model outputs and limitations to users" }
+    ],
+    "solutions_offered": [
+      "Predictive analytics and signal generation",
+      "Model operationalisation (MVP to production)",
+      "Decision-support dashboards and tooling"
+    ],
+    "career_highlights": [
+      "Applied brokerage domain insights to data problems (inferred)",
+      "Built forecasting or signal models with measurable lift (inferred)",
+      "Standardised model delivery workflows (inferred)",
+      "Improved stakeholder adoption through clear explanations (inferred)",
+      "Supported iterative improvement and monitoring processes (inferred)"
+    ]
+  },
+
+  {
+    "id": "8b50ca9e-0740-49a0-8df4-38e6e262853a",
+    "name": "Nicholas Sanders",
+    "current_role": { "title": "Engineer", "company": "Garcia, Gonzalez and Carlson", "location": "Herringberg" },
+    "previous_roles": [
+      { "title": "Restaurant Manager", "company": "Fast food (from headline)" },
+      { "title": "Support / Operations Engineer", "company": "Tech ops (inferred)" },
+      { "title": "Software Engineer (Junior)", "company": "Product team (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Operational reliability", "applied_in": "Keeping services/processes stable; incident handling" },
+      { "skill": "Healthcare-adjacent systems awareness", "applied_in": "Building safe, compliant features (inferred)" },
+      { "skill": "AI integration", "applied_in": "Adding automation or assistive AI components" },
+      { "skill": "Process optimisation", "applied_in": "Reducing cycle time, improving throughput (leveraging ops background)" },
+      { "skill": "Team coordination", "applied_in": "Shift-based operations; cross-team handoffs" }
+    ],
+    "solutions_offered": [
+      "Engineering delivery with strong operational discipline",
+      "Automation and AI-assisted workflows",
+      "Reliability and support process improvements"
+    ],
+    "career_highlights": [
+      "Transitioned from operations leadership into engineering (inferred)",
+      "Improved reliability through pragmatic process changes (inferred)",
+      "Implemented automation to reduce manual load (inferred)",
+      "Supported production issues with structured incident management (inferred)",
+      "Built trust with users through consistent delivery (inferred)"
+    ]
+  },
+
+  {
+    "id": "e730fc9e-2985-47ff-9f30-83ed43afe180",
+    "name": "Kathryn Delacruz",
+    "current_role": { "title": "Data Scientist", "company": "Wilson, Garcia and Brown", "location": "North Daniel" },
+    "previous_roles": [
+      { "title": "Primary School Teacher", "company": "Education (from headline)" },
+      { "title": "Data Analyst (Education / EdTech)", "company": "Inferred" },
+      { "title": "Junior Data Scientist", "company": "Startup (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Data storytelling", "applied_in": "Explaining insights clearly to non-technical audiences" },
+      { "skill": "Applied ML", "applied_in": "Classification/forecasting for product or operations" },
+      { "skill": "Experimentation", "applied_in": "Testing interventions/features and measuring outcomes" },
+      { "skill": "Startup agility", "applied_in": "Rapid iteration and MVP delivery" },
+      { "skill": "AI product alignment", "applied_in": "Translating user needs into AI-assisted capabilities" }
+    ],
+    "solutions_offered": [
+      "Analytics and ML to improve product decisions",
+      "Communication-heavy insight delivery for stakeholders",
+      "Experiment design and measurement frameworks"
+    ],
+    "career_highlights": [
+      "Moved from education leadership into data roles (inferred)",
+      "Improved stakeholder understanding via strong narratives (inferred)",
+      "Delivered models aligned to product outcomes (inferred)",
+      "Built measurement discipline in fast-moving teams (inferred)",
+      "Enabled adoption through training/support (inferred)"
+    ]
+  },
+
+  {
+    "id": "779d4310-7e7b-49f2-b63f-8c91049832ea",
+    "name": "Michael Fisher",
+    "current_role": { "title": "Designer", "company": "Young, Boone and Lowery", "location": "Port Sarah" },
+    "previous_roles": [
+      { "title": "Jewellery Designer", "company": "Design practice (from headline)" },
+      { "title": "Brand / Product Designer", "company": "Startups (inferred)" },
+      { "title": "Design Consultant", "company": "Finance / fintech (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Visual design", "applied_in": "Brand systems, UI design, marketing assets" },
+      { "skill": "Product design", "applied_in": "UX flows, prototypes, user testing (inferred)" },
+      { "skill": "Fintech design alignment", "applied_in": "Designing for trust, clarity, and regulated UX patterns" },
+      { "skill": "Startup iteration", "applied_in": "Fast cycles from concept to shippable UI" },
+      { "skill": "Stakeholder collaboration", "applied_in": "Working with founders/PM/engineering" }
+    ],
+    "solutions_offered": [
+      "Brand + product design for startups",
+      "Fintech-focused UX/UI design",
+      "Design systems and prototypes for faster delivery"
+    ],
+    "career_highlights": [
+      "Applied craft design discipline to digital product outcomes (inferred)",
+      "Built cohesive design systems for scaling teams (inferred)",
+      "Improved conversion/clarity through UX refinements (inferred)",
+      "Delivered multiple MVP product interfaces (inferred)",
+      "Aligned brand identity across product and marketing (inferred)"
+    ]
+  },
+
+  {
+    "id": "f0f0d23e-40e9-48a2-8ed0-2a2df52b99a9",
+    "name": "Ethan Yates",
+    "current_role": { "title": "Designer", "company": "Sanford-Cox", "location": "Port Kimberly" },
+    "previous_roles": [
+      { "title": "Merchant Navy Officer", "company": "Maritime (from headline)" },
+      { "title": "Operations / Logistics Coordinator", "company": "Inferred" },
+      { "title": "Product / Service Designer", "company": "Finance/AI projects (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Operational design", "applied_in": "Designing processes that work under pressure/constraints" },
+      { "skill": "AI-enabled workflow design", "applied_in": "Automation concepts and assistive tooling" },
+      { "skill": "Financial domain interest", "applied_in": "Designing around reporting, performance, and decision support" },
+      { "skill": "Risk management", "applied_in": "Operational risk thinking applied to delivery" },
+      { "skill": "Stakeholder coordination", "applied_in": "Multi-party coordination and handoffs" }
+    ],
+    "solutions_offered": [
+      "Design for operationally complex environments",
+      "AI-assisted automation concepts",
+      "Process redesign and service design"
+    ],
+    "career_highlights": [
+      "Brought high-discipline operations mindset into design (inferred)",
+      "Improved workflows through simplification and tooling (inferred)",
+      "Supported cross-functional delivery in constrained environments (inferred)",
+      "Delivered prototypes for automation use cases (inferred)",
+      "Implemented feedback loops for continuous improvement (inferred)"
+    ]
+  },
+
+  {
+    "id": "eaf6f517-5cfe-4f88-8ec6-bf85570b191a",
+    "name": "Adam Moore",
+    "current_role": { "title": "Analyst", "company": "Lin PLC", "location": "Port Ashleyville" },
+    "previous_roles": [
+      { "title": "Animal Technologist", "company": "Life sciences (from headline)" },
+      { "title": "Business / Data Analyst", "company": "Finance (inferred)" },
+      { "title": "Research Analyst", "company": "Blockchain/market research (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Analytical modelling", "applied_in": "KPI analysis, financial modelling, scenario work" },
+      { "skill": "Blockchain research", "applied_in": "Market mapping, token models, ecosystem analysis" },
+      { "skill": "Data analysis", "applied_in": "SQL/BI reporting, insight generation (inferred)" },
+      { "skill": "Research synthesis", "applied_in": "Turning disparate sources into clear recommendations" },
+      { "skill": "Stakeholder reporting", "applied_in": "Executive summaries and decision memos" }
+    ],
+    "solutions_offered": [
+      "Finance and blockchain research/analysis",
+      "Decision support and reporting packs",
+      "Market sizing and opportunity assessment"
+    ],
+    "career_highlights": [
+      "Transitioned from lab/technical environment to analytical business roles (inferred)",
+      "Produced actionable research for investment or strategy choices (inferred)",
+      "Built repeatable reporting and insight cadence (inferred)",
+      "Supported blockchain-focused assessments (inferred)",
+      "Improved clarity of decision-making through structured analysis (inferred)"
+    ]
+  },
+
+  {
+    "id": "f48531ac-4960-4ae8-bb83-bcba12b150f3",
+    "name": "Joel Ellis",
+    "current_role": { "title": "Designer", "company": "Murphy-Meyer", "location": "Zacharyfurt" },
+    "previous_roles": [
+      { "title": "Lexicographer", "company": "Publishing / language (from headline)" },
+      { "title": "Content Designer", "company": "Healthcare/startups (inferred)" },
+      { "title": "UX Writer", "company": "Product team (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Information architecture", "applied_in": "Naming, navigation, content structure" },
+      { "skill": "UX writing", "applied_in": "Microcopy, onboarding, error states, policy text" },
+      { "skill": "Healthcare communication", "applied_in": "Clear language for sensitive or regulated contexts" },
+      { "skill": "Startup product support", "applied_in": "Content systems for MVPs and rapid iteration" },
+      { "skill": "Editing and quality control", "applied_in": "Consistency, tone, terminology management" }
+    ],
+    "solutions_offered": [
+      "Content design and UX writing for products",
+      "Terminology/knowledge system design",
+      "Clear communication for healthcare-adjacent experiences"
+    ],
+    "career_highlights": [
+      "Applied lexicography discipline to product clarity (inferred)",
+      "Reduced user confusion through better content structure (inferred)",
+      "Built terminology standards and style guidance (inferred)",
+      "Supported product teams with scalable content components (inferred)",
+      "Improved onboarding completion via simplified language (inferred)"
+    ]
+  },
+
+  {
+    "id": "ab205475-f1ad-4618-be59-33f6085bb561",
+    "name": "Johnny Valentine",
+    "current_role": { "title": "ISO Auditor Analyst", "company": "Gallegos, Burton and Forbes Auditors", "location": "Flowershaven" },
+    "previous_roles": [
+      { "title": "Outdoor Activities / Education Manager", "company": "Education / training (from headline)" },
+      { "title": "Risk / Compliance Analyst", "company": "Healthcare/cyber (inferred)" },
+      { "title": "Operations Analyst", "company": "Service delivery (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Risk assessment", "applied_in": "Operational risk reviews, control mapping (inferred)" },
+      { "skill": "Cybersecurity Audits", "applied_in": "Security awareness, control checks, process adherence" },
+      { "skill": "Healthcare domain alignment", "applied_in": "Safety/compliance mindset and operational governance" },
+      { "skill": "Training and enablement", "applied_in": "Building training materials and running sessions" },
+      { "skill": "Reporting and analytics", "applied_in": "Dashboards, KPI packs, incident summaries" }
+    ],
+    "solutions_offered": [
+      "Operational risk and control reporting",
+      "Cyber hygiene programmes and governance support",
+      "ISO27001, Cyber Essentials Audits"
+    ],
+    "career_highlights": [
+      "Led teams and training programmes (inferred)",
+      "Introduced structured reporting for operational visibility (inferred)",
+      "Improved compliance behaviours via enablement (inferred)",
+      "Supported risk/control alignment across stakeholders (inferred)",
+      "Created repeatable playbooks for operational processes (inferred)"
+    ]
+  },
+
+  {
+    "id": "89b238e8-275e-437b-894a-18dec2382bfd",
+    "name": "Christie Johnson",
+    "current_role": { "title": "Engineer", "company": "Green-Thompson", "location": "West Timothyview" },
+    "previous_roles": [
+      { "title": "Illustrator", "company": "Creative practice (from headline)" },
+      { "title": "Front-end Engineer (Junior)", "company": "Product team (inferred)" },
+      { "title": "Data / Integration Engineer", "company": "Healthcare/finance (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Front-end engineering", "applied_in": "UI implementation, component systems (inferred)" },
+      { "skill": "Data integration", "applied_in": "Connecting services/APIs; data handling in apps" },
+      { "skill": "Healthcare sensitivity", "applied_in": "Designing for privacy and trust in user experiences" },
+      { "skill": "Finance domain interest", "applied_in": "Building reporting/insight interfaces (inferred)" },
+      { "skill": "Visual communication", "applied_in": "Turning complex info into understandable UI" }
+    ],
+    "solutions_offered": [
+      "UI engineering with strong visual clarity",
+      "Data-driven interface implementation",
+      "UX collaboration bridging design and build"
+    ],
+    "career_highlights": [
+      "Transitioned from illustration into engineering delivery (inferred)",
+      "Improved UI clarity through strong visual instincts (inferred)",
+      "Implemented reusable components and patterns (inferred)",
+      "Delivered data-driven features end-to-end (inferred)",
+      "Supported product iteration with rapid releases (inferred)"
+    ]
+  },
+
+  {
+    "id": "9ef93fce-0a28-4d66-a711-741f17d99749",
+    "name": "Aaron Green",
+    "current_role": { "title": "Data Scientist", "company": "Haynes-Avila", "location": "New Carlos" },
+    "previous_roles": [
+      { "title": "Arts Development Officer", "company": "Public/arts org (from headline)" },
+      { "title": "Analytics Lead (Community / Growth)", "company": "Startup (inferred)" },
+      { "title": "Data Analyst", "company": "Product analytics (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Growth analytics", "applied_in": "Acquisition/retention analysis, cohort work" },
+      { "skill": "Applied ML", "applied_in": "Scoring, recommendation, segmentation" },
+      { "skill": "Experiment design", "applied_in": "A/B tests, impact measurement" },
+      { "skill": "Stakeholder storytelling", "applied_in": "Narratives for product/leadership alignment" },
+      { "skill": "Startup execution", "applied_in": "Iterative delivery under ambiguity" }
+    ],
+    "solutions_offered": [
+      "Product/growth analytics and measurement",
+      "Segmentation, scoring and recommendation models",
+      "Experimentation frameworks to guide roadmap"
+    ],
+    "career_highlights": [
+      "Brought community/programme thinking into growth measurement (inferred)",
+      "Built analytics cadence for product decisions (inferred)",
+      "Delivered ML-driven segmentation improvements (inferred)",
+      "Improved conversion/retention via experiments (inferred)",
+      "Enabled leadership alignment through clear insight narratives (inferred)"
+    ]
+  },
+
+  {
+    "id": "220666fb-a20c-464d-bcdb-9e7a7076c347",
+    "name": "James Huffman DVM",
+    "current_role": { "title": "Analyst", "company": "Medina-Richardson", "location": "Shannonmouth" },
+    "previous_roles": [
+      { "title": "Market Researcher", "company": "Research org (from headline)" },
+      { "title": "Healthcare Analyst", "company": "Inferred (DVM background)" },
+      { "title": "Finance/Commercial Analyst", "company": "Inferred" }
+    ],
+    "top_skills": [
+      { "skill": "Market research", "applied_in": "Voice-of-customer, surveys, competitive analysis" },
+      { "skill": "Healthcare domain analysis", "applied_in": "Clinical/health-adjacent market interpretation (inferred)" },
+      { "skill": "Financial analysis", "applied_in": "Pricing/market sizing, business cases" },
+      { "skill": "Reporting and insight synthesis", "applied_in": "Executive-ready narratives and recommendations" },
+      { "skill": "Stakeholder engagement", "applied_in": "Working with product/strategy teams" }
+    ],
+    "solutions_offered": [
+      "Market sizing and competitive intelligence",
+      "Healthcare/finance-informed research insights",
+      "Decision support packs for strategy and product"
+    ],
+    "career_highlights": [
+      "Delivered research that shaped strategic choices (inferred)",
+      "Built repeatable competitive tracking (inferred)",
+      "Improved product/strategy alignment via VOC insights (inferred)",
+      "Produced pricing/positioning recommendations (inferred)",
+      "Supported cross-functional planning with data-driven insights (inferred)"
+    ]
+  },
+
+  {
+    "id": "f6c753ac-83a7-4381-969e-1ffbead9f142",
+    "name": "Frank Yoder",
+    "current_role": { "title": "Data Scientist", "company": "Padilla PLC", "location": "Port Robert" },
+    "previous_roles": [
+      { "title": "Video Editor", "company": "Media (from headline)" },
+      { "title": "Growth / Marketing Analyst", "company": "Startup (inferred)" },
+      { "title": "Security Analytics Contributor", "company": "Cybersecurity (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Data science", "applied_in": "Predictive modelling and insight generation" },
+      { "skill": "Startup growth analytics", "applied_in": "Funnel optimisation, cohort analysis (inferred)" },
+      { "skill": "Cybersecurity interest", "applied_in": "Threat metrics, anomaly detection concepts (inferred)" },
+      { "skill": "Content/communication", "applied_in": "Turning analytics into compelling narratives (media background)" },
+      { "skill": "Automation", "applied_in": "Pipelines, scheduled reporting, data quality checks" }
+    ],
+    "solutions_offered": [
+      "Analytics + modelling to improve growth outcomes",
+      "Security-adjacent anomaly detection concepts",
+      "Automated reporting and insight delivery"
+    ],
+    "career_highlights": [
+      "Shifted from media production into analytics delivery (inferred)",
+      "Improved stakeholder understanding via clear outputs (inferred)",
+      "Built automated pipelines for repeatable insights (inferred)",
+      "Supported experimentation for growth improvements (inferred)",
+      "Created measurable impact through model-led prioritisation (inferred)"
+    ]
+  },
+
+  {
+    "id": "69a5f878-1f4f-485b-a11d-8d04c98cc13d",
+    "name": "Lauren Jones",
+    "current_role": { "title": "Analyst", "company": "Jones, Allison and Green", "location": "Andersonfurt" },
+    "previous_roles": [
+      { "title": "Airline Pilot", "company": "Aviation (from headline)" },
+      { "title": "Operational Risk Analyst", "company": "Finance/cyber (inferred)" },
+      { "title": "Business Analyst", "company": "Service ops (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Operational risk mindset", "applied_in": "High-consequence decision frameworks applied to analysis" },
+      { "skill": "Cybersecurity awareness", "applied_in": "Risk controls, process adherence, governance support" },
+      { "skill": "Financial analysis", "applied_in": "KPI packs, cost/benefit, operational efficiency" },
+      { "skill": "Process improvement", "applied_in": "Standard operating procedures, incident learning" },
+      { "skill": "Stakeholder communication", "applied_in": "Clear briefings and structured reporting" }
+    ],
+    "solutions_offered": [
+      "Risk and control analysis support",
+      "Operational efficiency analytics",
+      "Governance-friendly reporting and insights"
+    ],
+    "career_highlights": [
+      "Transferred high-discipline ops skills into analytical role (inferred)",
+      "Improved reporting clarity and decision cadence (inferred)",
+      "Supported cyber/control initiatives with strong process discipline (inferred)",
+      "Standardised performance tracking (inferred)",
+      "Enabled stakeholders with actionable insight packs (inferred)"
+    ]
+  },
+
+  {
+    "id": "c60e9fc3-605e-4058-8da0-dbfff1356a16",
+    "name": "David Lowe",
+    "current_role": { "title": "Engineer", "company": "Anderson-Henry", "location": "Port Christine" },
+    "previous_roles": [
+      { "title": "Cabin Crew", "company": "Aviation (from headline)" },
+      { "title": "Support Engineer", "company": "Tech ops (inferred)" },
+      { "title": "Software Engineer (Junior)", "company": "Cyber/finance projects (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Reliability and incident handling", "applied_in": "Support workflows, on-call, operational readiness" },
+      { "skill": "Cybersecurity interest", "applied_in": "Secure practices, access control awareness (inferred)" },
+      { "skill": "Finance domain interest", "applied_in": "Building/reporting tools with accuracy requirements" },
+      { "skill": "User support and communication", "applied_in": "Explaining issues and solutions to end users" },
+      { "skill": "Process optimisation", "applied_in": "Reducing recurring incidents via automation" }
+    ],
+    "solutions_offered": [
+      "Engineering support with strong service discipline",
+      "Automation to reduce operational load",
+      "Secure-by-default implementation habits"
+    ],
+    "career_highlights": [
+      "Moved from frontline service to engineering delivery (inferred)",
+      "Improved incident resolution time through structured processes (inferred)",
+      "Implemented automation for recurring issues (inferred)",
+      "Supported secure practices in production environments (inferred)",
+      "Delivered incremental improvements with high user impact (inferred)"
+    ]
+  },
+
+  {
+    "id": "c62457fa-100b-4d87-98c7-d29e15eb88de",
+    "name": "Jacqueline Mayer",
+    "current_role": { "title": "Designer", "company": "Long, Rodriguez and Anderson", "location": "Joannberg" },
+    "previous_roles": [
+      { "title": "Optometrist", "company": "Healthcare (from headline)" },
+      { "title": "Healthcare Product Designer", "company": "Inferred" },
+      { "title": "Service Designer (Digital Health)", "company": "Inferred" }
+    ],
+    "top_skills": [
+      { "skill": "Healthcare domain expertise", "applied_in": "Designing for patient safety, clinical workflow sensitivity" },
+      { "skill": "UX/UI design", "applied_in": "Patient/admin portals, appointment flows (inferred)" },
+      { "skill": "Blockchain interest", "applied_in": "Identity, consent, provenance concepts (inferred)" },
+      { "skill": "Research and empathy", "applied_in": "User interviews, accessibility and clarity" },
+      { "skill": "Process and service design", "applied_in": "End-to-end journeys across channels" }
+    ],
+    "solutions_offered": [
+      "Healthcare-focused product/service design",
+      "Patient-friendly workflows and interfaces",
+      "Exploration of blockchain-enabled consent/provenance concepts"
+    ],
+    "career_highlights": [
+      "Converted clinical understanding into improved digital journeys (inferred)",
+      "Improved usability for health services users (inferred)",
+      "Advocated privacy/trust patterns in design (inferred)",
+      "Delivered design assets for engineering implementation (inferred)",
+      "Enabled clearer communication in sensitive contexts (inferred)"
+    ]
+  },
+
+  {
+    "id": "e826fd6c-5219-4468-83c7-6a7c1cb25280",
+    "name": "Andrew Hoover",
+    "current_role": { "title": "Engineer", "company": "Garner-Booker", "location": "Leefort" },
+    "previous_roles": [
+      { "title": "Editor, Commissioning", "company": "Publishing (from headline)" },
+      { "title": "Product Engineer", "company": "Startup (inferred)" },
+      { "title": "Platform / Integration Engineer", "company": "Healthcare projects (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Engineering execution", "applied_in": "Feature delivery, integration, testing" },
+      { "skill": "Content and information systems", "applied_in": "Knowledge bases, CMS, structured content pipelines" },
+      { "skill": "Startup pragmatism", "applied_in": "Shipping MVPs with constrained resources" },
+      { "skill": "Healthcare alignment", "applied_in": "Privacy, reliability, and usability considerations" },
+      { "skill": "Stakeholder translation", "applied_in": "Bridging editorial/product requirements and engineering" }
+    ],
+    "solutions_offered": [
+      "Engineering for content/knowledge-centric products",
+      "Integration and platform support for startups",
+      "Healthcare-adjacent product delivery discipline"
+    ],
+    "career_highlights": [
+      "Shifted from editorial leadership to engineering delivery (inferred)",
+      "Built structured content/knowledge workflows (inferred)",
+      "Delivered MVPs and scaled them iteratively (inferred)",
+      "Improved reliability and quality through disciplined processes (inferred)",
+      "Enabled stakeholders with clear technical translation (inferred)"
+    ]
+  },
+
+  {
+    "id": "7bc5aa4b-b67e-4cb0-af88-0791c382500d",
+    "name": "Andrew Morrison",
+    "current_role": { "title": "Product Manager", "company": "Herrera, Gonzalez and Lambert", "location": "East Lisashire" },
+    "previous_roles": [
+      { "title": "Clinical Embryologist", "company": "Healthcare (from headline)" },
+      { "title": "Clinical Operations Lead", "company": "Fertility/health services (inferred)" },
+      { "title": "Associate Product Manager (HealthTech)", "company": "Inferred" }
+    ],
+    "top_skills": [
+      { "skill": "Product strategy", "applied_in": "Roadmaps, outcomes, stakeholder alignment" },
+      { "skill": "Healthcare workflow design", "applied_in": "Clinical pathways, compliance-sensitive features" },
+      { "skill": "Financial/operational thinking", "applied_in": "Unit economics, efficiency, process automation (inferred)" },
+      { "skill": "Discovery and validation", "applied_in": "User research, clinical stakeholder interviews" },
+      { "skill": "Delivery management", "applied_in": "Backlog management, release planning" }
+    ],
+    "solutions_offered": [
+      "HealthTech product management and roadmap leadership",
+      "Clinical workflow digitisation and optimisation",
+      "Operational efficiency improvement through product changes"
+    ],
+    "career_highlights": [
+      "Leveraged clinical expertise to shape product priorities (inferred)",
+      "Improved patient/staff experience through workflow changes (inferred)",
+      "Delivered roadmap items to measurable operational outcomes (inferred)",
+      "Aligned clinical/commercial stakeholders (inferred)",
+      "Built scalable product processes for delivery cadence (inferred)"
+    ]
+  },
+
+  {
+    "id": "60527990-e225-4b24-b8b5-376b926e9fd0",
+    "name": "Jennifer Wilson",
+    "current_role": { "title": "Designer", "company": "Curtis LLC", "location": "Ronnieland" },
+    "previous_roles": [
+      { "title": "Administrator, Civil Service", "company": "Public sector (from headline)" },
+      { "title": "Service Designer", "company": "Government digital (inferred)" },
+      { "title": "Product / UX Designer", "company": "Finance/AI projects (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Service design", "applied_in": "End-to-end journey mapping, policy-to-service translation" },
+      { "skill": "UX/UI design", "applied_in": "Designing accessible digital services" },
+      { "skill": "AI feature alignment", "applied_in": "Defining assistive automation in workflows" },
+      { "skill": "Finance domain interest", "applied_in": "Designing clarity and trust into interfaces (inferred)" },
+      { "skill": "Governance and compliance mindset", "applied_in": "Designing within regulated and auditable environments" }
+    ],
+    "solutions_offered": [
+      "Design for complex, regulated services",
+      "Workflow simplification and digitisation",
+      "Accessible UI and service patterns for scale"
+    ],
+    "career_highlights": [
+      "Moved from public administration into design delivery (inferred)",
+      "Improved citizen/user experience via clearer journeys (inferred)",
+      "Introduced scalable patterns and accessibility discipline (inferred)",
+      "Applied AI concepts to reduce operational workload (inferred)",
+      "Supported governance-friendly design artefacts (inferred)"
+    ]
+  },
+
+  {
+    "id": "3ce3fca7-7ccd-4a24-b690-30db79ec1edc",
+    "name": "James Brown",
+    "current_role": { "title": "Data Scientist", "company": "Fowler-Oliver", "location": "North Jacob" },
+    "previous_roles": [
+      { "title": "Careers Information Officer", "company": "Education/services (from headline)" },
+      { "title": "Data Analyst", "company": "Startup / product analytics (inferred)" },
+      { "title": "ML Engineer (Junior)", "company": "Inferred" }
+    ],
+    "top_skills": [
+      { "skill": "Applied ML", "applied_in": "Classification, recommendation, scoring (inferred)" },
+      { "skill": "Data storytelling", "applied_in": "Explaining outcomes and decisions to stakeholders" },
+      { "skill": "Experimentation and metrics", "applied_in": "Defining KPIs and evaluation frameworks" },
+      { "skill": "Startup delivery", "applied_in": "Rapid iteration and MVP development" },
+      { "skill": "User needs translation", "applied_in": "Converting guidance/services needs into data problems" }
+    ],
+    "solutions_offered": [
+      "Analytics and ML to improve user outcomes",
+      "Scoring/recommendation engines for matching and guidance",
+      "Measurement frameworks for product decision-making"
+    ],
+    "career_highlights": [
+      "Moved from advisory services into data science delivery (inferred)",
+      "Built models to improve matching or recommendations (inferred)",
+      "Standardised KPI and evaluation approaches (inferred)",
+      "Improved adoption through clear stakeholder comms (inferred)",
+      "Delivered iterative improvements with measurable lift (inferred)"
+    ]
+  },
+
+  {
+    "id": "5a0341ce-e4bb-49fc-aae1-0b4e46efa753",
+    "name": "Ann Kline",
+    "current_role": { "title": "Product Manager", "company": "Willis PLC", "location": "Lake Karenton" },
+    "previous_roles": [
+      { "title": "Acupuncturist", "company": "Healthcare practice (from headline)" },
+      { "title": "Health Product Specialist", "company": "Wellness/healthtech (inferred)" },
+      { "title": "Associate Product Manager", "company": "AI/blockchain products (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Product discovery", "applied_in": "User research, problem framing, roadmap definition" },
+      { "skill": "Healthcare user empathy", "applied_in": "Patient-centric journeys and trust-building" },
+      { "skill": "AI feature definition", "applied_in": "Automation/assistive features and evaluation metrics" },
+      { "skill": "Blockchain interest", "applied_in": "Consent, identity, provenance concepts (inferred)" },
+      { "skill": "Delivery management", "applied_in": "Backlog prioritisation, release planning" }
+    ],
+    "solutions_offered": [
+      "Product management for health/wellness solutions",
+      "AI-assisted personalisation and workflow support",
+      "Exploration of blockchain-enabled trust mechanisms"
+    ],
+    "career_highlights": [
+      "Transitioned from practitioner to product leader (inferred)",
+      "Built empathetic product journeys for health users (inferred)",
+      "Defined AI-backed features tied to outcomes (inferred)",
+      "Aligned stakeholders across clinical and technical teams (inferred)",
+      "Shipped MVPs with clear success metrics (inferred)"
+    ]
+  },
+
+  {
+    "id": "90541df2-103c-4271-b876-02ff59ad7d7a",
+    "name": "Jeremiah Thomas",
+    "current_role": { "title": "Analyst", "company": "Johnson, Clark and Pierce", "location": "Schroedermouth" },
+    "previous_roles": [
+      { "title": "Production Assistant (Television)", "company": "Media (from headline)" },
+      { "title": "Security / Operations Analyst", "company": "Cybersecurity (inferred)" },
+      { "title": "Data / Reporting Analyst", "company": "AI projects (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Operational coordination", "applied_in": "Runbooks, scheduling, stakeholder handoffs" },
+      { "skill": "Cybersecurity awareness", "applied_in": "Controls reporting, incident metrics (inferred)" },
+      { "skill": "AI/data literacy", "applied_in": "Basic model/automation framing and analytics" },
+      { "skill": "Communication", "applied_in": "Clear status updates and stakeholder briefings" },
+      { "skill": "Process documentation", "applied_in": "Procedures, playbooks, and reporting templates" }
+    ],
+    "solutions_offered": [
+      "Operational analytics and reporting",
+      "Cyber controls / incident reporting support",
+      "Process documentation and coordination"
+    ],
+    "career_highlights": [
+      "Transferred production discipline into analytical operations (inferred)",
+      "Improved reporting cadence and stakeholder visibility (inferred)",
+      "Supported cyber/AI initiatives with structured metrics (inferred)",
+      "Created repeatable playbooks and templates (inferred)",
+      "Enabled teams to execute reliably under deadlines (inferred)"
+    ]
+  },
+
+  {
+    "id": "17175b67-f061-455c-bb18-0b026aa9689f",
+    "name": "Randall Hunter",
+    "current_role": { "title": "Analyst", "company": "Davis-Stewart", "location": "East Patriciatown" },
+    "previous_roles": [
+      { "title": "Advertising Copywriter", "company": "Agency (from headline)" },
+      { "title": "Product Marketing Analyst", "company": "Startup (inferred)" },
+      { "title": "Growth Analyst / Strategy Analyst", "company": "AI products (inferred)" }
+    ],
+    "top_skills": [
+      { "skill": "Messaging and positioning", "applied_in": "Value propositions, narrative crafting" },
+      { "skill": "Market analysis", "applied_in": "Segment research, competitor mapping" },
+      { "skill": "AI product communication", "applied_in": "Explaining AI value and limitations clearly" },
+      { "skill": "Startup execution", "applied_in": "Launches, experiments, iteration" },
+      { "skill": "Stakeholder alignment", "applied_in": "Working across product, sales, and delivery" }
+    ],
+    "solutions_offered": [
+      "Positioning and narrative for AI/startup offerings",
+      "Market segmentation and go-to-market support",
+      "Insight-driven messaging optimisation"
+    ],
+    "career_highlights": [
+      "Applied copywriting strengths to product strategy outputs (inferred)",
+      "Improved go-to-market clarity and conversion (inferred)",
+      "Built competitive intelligence and segmentation views (inferred)",
+      "Supported launches with measurable learning loops (inferred)",
+      "Aligned cross-functional teams on messaging and goals (inferred)"
+    ]
+  },
+
+  {
+    "id": "923a16a3-1878-4e70-882b-c9de8580c11a",
+    "name": "Jack Rodriguez",
+    "current_role": { "title": "Analyst", "company": "Daniels-Scott", "location": "Bryantberg" },
+    "previous_roles": [
+      { "title": "Academic Librarian", "company": "University (from headline)" },
+      { "title": "Research Analyst", "company": "Finance/blockchain (inferred)" },
+      { "title": "Knowledge Management Lead", "company": "Inferred" }
+    ],
+    "top_skills": [
+      { "skill": "Research and synthesis", "applied_in": "Deep-dive research, summarisation, decision memos" },
+      { "skill": "Information governance", "applied_in": "Taxonomy, metadata, retrieval structures" },
+      { "skill": "Finance domain interest", "applied_in": "Market research and analytical briefs (inferred)" },
+      { "skill": "Blockchain interest", "applied_in": "Ecosystem mapping and trust models (inferred)" },
+      { "skill": "Stakeholder enablement", "applied_in": "Helping teams find/interpret information quickly" }
+    ],
+    "solutions_offered": [
+      "Research and knowledge management for decision support",
+      "Structured intelligence packs for finance/blockchain topics",
+      "Information governance and taxonomy design"
+    ],
+    "career_highlights": [
+      "Built strong retrieval and knowledge structures (inferred)",
+      "Delivered research that improved decision speed (inferred)",
+      "Created standardised taxonomies and metadata approaches (inferred)",
+      "Supported finance/blockchain assessments with rigorous sourcing (inferred)",
+      "Enabled stakeholder self-service through knowledge systems (inferred)"
+    ]
+  },
+
+  {
+    "id": "18f6ad09-fce6-4860-9bf9-6ae34cdbba0f",
+    "name": "Barbara Anderson",
+    "current_role": { "title": "Engineer", "company": "Smith-Parsons", "location": "Changland" },
+    "previous_roles": [
+      { "title": "Research Scientist (Maths)", "company": "Research org (from headline)" },
+      { "title": "Blockchain Engineer (inferred)", "company": "Startup" },
+      { "title": "Software Engineer (Algorithms)", "company": "Inferred" }
+    ],
+    "top_skills": [
+      { "skill": "Mathematical modelling", "applied_in": "Algorithms, optimisation, quantitative analysis" },
+      { "skill": "Software engineering", "applied_in": "Implementing robust systems and services" },
+      { "skill": "Blockchain systems", "applied_in": "Protocol/ledger concepts, smart contract thinking (inferred)" },
+      { "skill": "Startup building", "applied_in": "Rapid prototyping and iteration" },
+      { "skill": "Technical communication", "applied_in": "Explaining complex concepts to stakeholders" }
+    ],
+    "solutions_offered": [
+      "Algorithmic engineering and quantitative systems",
+      "Blockchain-adjacent engineering and prototyping",
+      "Problem-solving for complex technical domains"
+    ],
+    "career_highlights": [
+      "Converted research rigour into practical engineering outputs (inferred)",
+      "Built prototypes for blockchain or quantitative use cases (inferred)",
+      "Delivered algorithmic improvements with measurable impact (inferred)",
+      "Supported technical decisions through clear explanation (inferred)",
+      "Shipped production-ready components from complex models (inferred)"
+    ]
+  }
+]

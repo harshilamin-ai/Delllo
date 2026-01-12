@@ -1,0 +1,6 @@
+{
+    "llm_model_path": "G:/My Drive/3 Business/1 Harptec/25 Code/AIModels/Nous-Hermes-2-Mistral-7B-DPO.Q4_K_M.gguf",
+    "data_folder": "data",
+    "updates_folder": "DBUpdates",
+    "logs_folder": "logs"
+}
