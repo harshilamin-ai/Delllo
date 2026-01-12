@@ -6,5 +6,29 @@ Delllo Networking is a semantic matchmaking system designed to intelligently con
 
 The end-to-end matchmaking flow follows these stages:
 
-User Profile (Objectives + Role Preference) -> Candidate Profiles -> Profile → Semantic Document Construction -> ChromaDB Indexing -> Objective-by-Objective Semantic Retrieval -> Per-Objective Score Normalization ->Score Aggregation Across Objectives -> Role Alignment Scoring (Post-retrieval) -> Final Ranking (Top-K Matches)
+User Profile (Objectives + Role Preference)
+|
+v
+Candidate Profiles
+|
+v
+Profile → Semantic Document Construction
+|
+v
+ChromaDB Indexing
+|
+v
+Objective-by-Objective Semantic Retrieval
+|
+v
+Per-Objective Score Normalization
+|
+v
+Score Aggregation Across Objectives
+|
+v
+Role Alignment Scoring (Post-retrieval)
+|
+v
+Final Ranking (Top-K Matches)
 
